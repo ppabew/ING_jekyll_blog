@@ -23,4 +23,4 @@ categories: jekyll update
 Trying 192.168.0.20...
 Connected to 192.168.0.20.
 ```
-<img src='/img/start_react.png'>
+<img src='/assets/assets/img/start_react.png'>
