@@ -1,6 +1,6 @@
 ---
-title: "[LINUX] service 작성법"
-date: 2020-08-19 08:46:00
+title: "[LINUX] 리눅스 sudo 비밀번호 입력 없애기"
+date: 2020-08-27 14:24:00
 categories: jekyll update
 ---
 
