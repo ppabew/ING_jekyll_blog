@@ -16,7 +16,9 @@ categories: jekyll update
 [root@localhost ~]$ firewall-cmd --reload
 ```
 
-정상적으로 열렸는지 확인하려면 telnet으로 확인하면된다.<br>
+정상적으로 열렸는지 확인하려면 telnet
+
+으로 확인하면된다.<br>
 리액트 실행하고 해야함
 ```
 [mw@centos7-frontend ~]$ telnet 192.168.0.20 3000
