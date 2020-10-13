@@ -3,7 +3,8 @@ title: "[SQL]upsert 코드"
 date: 2020-10-13 09:21:00
 categories: jekyll update
 ---
-upsert 
+you can use upsert query with mybatis code like under code.
+this code executre insert query if update query doesn't exist.
 ```
 WITH info(
   ID,
