@@ -1,5 +1,5 @@
 ---
-title: "[Spring Boot] embedded port 변경 방법"
+title: "[Spring Boot] 스프링 부트 서버 포트 변경"
 date: 2020-10-22 00:00:00
 categories: jekyll update
 ---
