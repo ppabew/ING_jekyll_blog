@@ -3,7 +3,7 @@ title: "[SQL]How to make zerofill in postgresql."
 date: 2020-10-26 15:14:00
 categories: jekyll update
 ---
-How to make zerofill data in postgresql
+How to make zerofill data in postgresql<br>
 You can make it like below
 ```
 do $$
@@ -15,5 +15,5 @@ end loop;
 end;
 $$;
 ```
-Let you Focus to the lpad function.<br>
+Let you focus to the lpad function.<br>
 That function can be maden as zerofill data so, if you wanna make zerofill data, use like that.
