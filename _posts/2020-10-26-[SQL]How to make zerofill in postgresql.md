@@ -15,5 +15,5 @@ end loop;
 end;
 $$;
 ```
-Let you Focus to the lpad function
+Let you Focus to the lpad function.<br>
 that function can be maden as zerofill data so, if you wanna make zerofill data, use like that.
