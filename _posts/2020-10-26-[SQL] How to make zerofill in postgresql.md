@@ -1,5 +1,5 @@
 ---
-title: "[SQL]How to make zerofill in postgresql."
+title: "[SQL] How to make zerofill in postgresql."
 date: 2020-10-26 15:14:00
 categories: jekyll update
 ---
