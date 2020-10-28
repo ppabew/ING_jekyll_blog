@@ -55,3 +55,5 @@ This setting is setting of Mac os Environment.<br>
   ${user} : User name (사용자 이름)
   ${year} : Current year (현재 연도)
 ```
+We can change ${user} variable in StringToolSuit.ini file<br>
+<img src='/assets/img/20201028_img1.png'>
