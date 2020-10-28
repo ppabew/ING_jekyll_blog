@@ -57,3 +57,6 @@ This setting is setting of Mac os Environment.<br>
 ```
 We can change ${user} variable in StringToolSuit.ini file<br>
 <img src='/assets/img/20201028_img1.png'>
+And You should add '-Duser.name="user name"'<br>
+If You finished that steps, You can add comments but, You should check generate comment.
+<img src='/assets/img/20201028_img2.png'>
