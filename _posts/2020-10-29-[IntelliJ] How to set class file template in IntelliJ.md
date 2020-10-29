@@ -5,7 +5,7 @@ categories: jekyll update
 ---
 How to set class file template in IntelliJ?<br>
 If you use default class template, you should enter template variables like this below.<br>
-<img src='/assets/img/20201029_img1.png'>
+<img src='/assets/img/20201029_img1.png'><br>
 So If you want template variables be entered as auto, you should edit Java Class template like this below
 <img src='/assets/img/20201029_img2.png'>
 <img src='/assets/img/20201029_img3.png'>
